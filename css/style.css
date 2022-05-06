@@ -1,0 +1,271 @@
+nav .row{
+  margin-top:50px;
+
+}
+.img-nav{
+display: flex;
+justify-content: space-between;
+}
+.links-sup {
+  display: flex;
+  justify-content: flex-end;
+ 
+}
+.links-sup a{
+  color: #000000;
+  font-family: 'Oswald', sans-serif;
+  text-transform: uppercase;
+  font-size: 20px;
+}
+.overlay .img-fluid{
+  top: 10px;
+ 
+  filter: brightness(50%);
+
+}
+.overlay .lorem{
+ color: #ffffff;
+  margin-left: 370px;
+  top: -320px;
+  position: relative;
+}
+.h1-lorem{
+  font-family: 'Oswald', sans-serif;
+  font-size: 62px;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+.h3-lorem{
+  font-family: 'Montserrat', sans-serif;
+  text-transform: uppercase;
+  font-size: 18px;
+}
+.h2-lorem{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 25px;
+  text-transform: uppercase;
+}
+
+.home-img{
+ margin-top: -20%;
+ margin-left: -45%;
+  position: absolute;
+}
+.row-two{
+  margin-top: -190px;
+ 
+}
+.row-ship{
+  margin-top: -30%;
+}
+.cta{
+  padding: 15px 60px;
+  background: #000000;
+  text-align: center;
+  color: #FFFFFF;
+  border: none;
+  text-transform: uppercase;
+  border-radius: 5px;
+  margin-top: 25px;
+  font-family: 'Oswald', sans-serif;
+  font-size: 16px;
+}
+.img1-ship{
+  position: relative;
+  
+}
+.img2-ship{
+  position: absolute;
+  margin-top: -20%;
+}
+.path-head{
+  margin-left: -60px;
+  margin-bottom: -60px;
+}
+.h1-ship{
+  font-family: 'Oswald', sans-serif;
+  font-size: 32px;
+  text-transform: uppercase;
+}
+.p-ship{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 16px;
+  margin-top: 25px;
+}
+.overlay-gallery{
+  margin-top: 90px;
+  position: relative;
+}
+.overlay-gallery .lorem-gallery{
+  color: #ffffff;
+text-align: center;
+   top: -300px;
+   position: relative;
+ }
+ .logo{
+  margin-left: -250px;
+  margin-bottom: -60px;
+ }
+ .overlay-gallery .our{
+  font-family: 'Oswald', sans-serif;
+  font-size: 30px;
+  text-transform: uppercase;
+ }
+ .home-gallery{
+   position: absolute;
+   right: 0;
+   width: 15%;
+ }
+ .row-gallery{
+  margin-top:-150px;
+  display: flex;
+ flex-wrap: wrap;
+position: relative;
+margin-right:-5%;
+ }
+.lara{
+margin-top:-37%;
+margin-left: 7%;
+
+}
+.text-img{
+  padding: 36px 10px;
+ position: relative;
+ width: 60%;
+  background-color:#FFFFFF;
+  transition: 0.5s ease-in-out;
+}
+.text-img:hover{
+background-color: #000000;
+}.lara2{
+  margin-top:-38%;
+  margin-left: 7%;
+  
+  }
+  .text-img2{
+    padding: 40px 10px;
+   position: relative;
+   width: 60%;
+    background-color:#FFFFFF;
+    transition: 0.5s ease-in-out;
+  }
+  .text-img2:hover{
+  background-color: #000000;
+  }
+  .lara3{
+    margin-top:-32%;
+    margin-left: 7%;
+    
+    }
+    .text-img3{
+      padding: 40px 10px;
+     position: relative;
+     width: 60%;
+      background-color:#FFFFFF;
+      transition: 0.5s ease-in-out;
+    }
+    .text-img3:hover{
+    background-color: #000000;
+    }
+    .lara4{
+      margin-top:-32%;
+      margin-left: 7%;
+      
+      }
+      .text-img4{
+        padding: 40px 10px;
+       position: relative;
+       width: 60%;
+        background-color:#FFFFFF;
+      
+        transition: 0.5s ease-in-out;
+      }
+      .text-img4:hover{
+      background-color: #000000;
+      }
+      
+    .lara-ship{
+      font-size: 24px;
+      font-family: 'Oswald', sans-serif;
+      text-transform: uppercase;
+    }
+ .text-boats{
+   margin-top: 150px;
+   text-align: center;
+   text-transform: uppercase;
+   font-family: 'Oswald', sans-serif;
+   font-size: 30px;
+ }
+ .icon-boats{
+   margin-left: -380px;
+   margin-top: -95px;
+ }
+ .row-boats{
+   display: flex;
+  padding: 80px 40px;
+  background-color: rgba(0, 0, 0, 0.05);
+ }
+ .row-choose{
+ background-color: #ffffff;
+ margin: 10px;
+ padding: 120px 40px;
+ }
+.icon-fle{
+ margin: auto;
+ margin-top: -150px;
+}
+.choosetext{
+  font-family: 'Oswald', sans-serif;
+  font-size: 28px;
+}
+ 
+ .row-foot{
+
+  margin-top: 100px;
+  padding: 80px 40px;
+display: flex;
+background-color:rgba(255, 255, 255, 100%);
+ }
+ .icons-foot{
+   margin-left: 0px;
+
+ }
+ .text-foot{
+   margin-left: 60px;
+   margin-top: -40px;
+   font-size: 23px;
+   text-transform: uppercase;
+   font-family: 'Oswald', sans-serif;
+ }
+
+.foots{
+  margin-top: -50px;
+}
+.ico-foot{
+ width: 20%;
+}
+.SUBSCRIBE{
+  background: #000000;
+  color: #FFFFFF;
+  padding: 20px 30px;
+  font-size: 20px;
+}
+.name-foot{
+  padding:10px 0px;
+  width: 280px;
+}
+.footer-row{
+  background-color: #000000;
+  padding: 60px;
+
+}
+.icon-footer{
+  margin-left: 150px;
+}
+.footer-2{
+  display: flex;
+
+}
+.icon-2{
+  margin-left: 50px;
+}
